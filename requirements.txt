@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-groq
+langgraph
+tavily-python
+requests
+tweepy
+python-logging-loki
+pillow
+replicate

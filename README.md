@@ -78,4 +78,3 @@ ai_social_agent/
 - **FastAPI**
 - **LangChain & LangGraph**
 - **Groq LLM API**
-- **Tavily Search API**
